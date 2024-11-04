@@ -8,11 +8,33 @@ I am Harsh Bhasin, a passionate student of Computer Applications with a keen int
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/harsh3093/)
 
+## Skills
+
+- **Languages & Technologies:**
+  - HTML
+  - CSS
+  - JavaScript
+  - React.js
+  - SQL
+  - AWS
+
+- **Web Development:**
+  - Responsive design
+  - Front-end development
+  - User interface design
+
+## Experience
+
+I have gained practical experience working with **KJX Softtech** for 5 months, where I honed my skills in web development and collaborated on various projects. This experience helped me understand real-world applications of my technical skills.
+
 ## Technologies Used
 
 - HTML
 - CSS
 - JavaScript
+- React.js
+- SQL
+- AWS
 
 ## Features
 
@@ -26,4 +48,4 @@ To view my portfolio locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Harsh5784/portfolio.git
+   git clone https://github.com/Harsh5784/Portfolio.git

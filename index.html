@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Libre+Barcode+39+Text&family=Poppins:wght@200;400;600&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;1,300;1,400;1,500&display=swap"
+    rel="stylesheet" />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Libre+Barcode+39+Text&family=Playfair+Display&family=Poppins:wght@200;400;600&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;1,300;1,400;1,500&display=swap"
+    rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+  <script src="/scripts/menu.js" defer></script>
+  <script src="scripts/works.js" type="module"></script>
+  <script src="scripts/popUp.js" type="module"></script>
+  <script src="scripts/form-validation.js" defer></script>
+  <script src="scripts/localStorage.js" defer></script>
+  <title>Harsh Bhasin's Portfolio</title>
+  <meta name="description"
+    content="Shows portfolio of Harsh Bhasin, as a web developer professional, showing you by first hand what he's skills are and what he can do for you and your company or product." />
+</head>
+
+<body>
+  <header>
+    <div class="logo show-hide" role="img" aria-label="Logo: Right Triangle and rhombus"></div>
+    <nav class="display">
+      <ul class="poppins">
+        <li class="nav-item">
+          <a class="nav-link" href="#headline" tabindex="1">Hello</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#works" tabindex="2">Portfolio</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#about" tabindex="3">About</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#contact" tabindex="4">Contact</a>
+        </li>
+      </ul>
+    </nav>
+    <label class="menu-btn-container show-hide" for="menu-toggle" tabindex="0" aria-label="Show Navigation Menu">
+      <input id="menu-toggle" type="checkbox" />
+      <div class="menu-btn"></div>
+    </label>
+  </header>
+  <!---------------------- headline ------------------------>
+  <section id="headline" tabindex="5">
+    <article class="headline-container">
+      <h1 class="headline-title playfair" aria-label="Alex Muñoz.">
+        Harsh Bhasin
+      </h1>
+      <p class="poppins" aria-label="Hey there! I am a software developer! I can help you build a
+          product feature or website. Take a look at my work. If you like what
+          you see and have a project you would like coded don’t hesitate to
+          contact me. Press tab and enter to">
+        &nbspHey, there! I am a Web developer! I can help you build a
+        product, feature or website. Take a look at my work. If you like what
+        you see and have a project you would like coded, don’t hesitate to
+        contact me.
+      </p>
+      <a href="#contact" class="btnBlue poppins" tabindex="6">Hire Me
+      </a>
+    </article>
+    <div class="headline-deco" role="img"></div>
+  </section>
+  <!---------- Projects ---------------->
+  <main>
+    <section id="works"></section>
+    <!------------------- About ----------------->
+    <section id="about" tabindex="14">
+      <div>
+        <h1 class="playfair about-title" aria-label="About me.">About</h1>
+        <p class="poppins">
+          I’m Harsh Bhasin, a BCA student at LPU with a keen interest in web development. Over the past 5 months, I’ve gained valuable experience working with KJXSofttech, where I’ve focused on creating dynamic and user-friendly applications using React.
+
+My journey into the world of coding began with a curiosity about how technology shapes our daily lives. I enjoy tackling challenges and turning ideas into engaging digital experiences. I’m committed to continuously improving my skills and staying updated with the latest technologies in the field.
+
+Collaboration and effective communication are values I hold dear, and I love working in teams to bring innovative solutions to life. I believe that learning from others is just as important as individual growth.
+
+When I’m not immersed in coding, you can find me Gaming, which helps me stay creative and balanced.
+
+I’m excited about the possibilities ahead and would love to connect with like-minded individuals to build something extraordinary together!
+        </p>
+        <a href="./assets/CV.pdf" class="btnBlue getCV poppins" download tabindex="15"
+          aria-label="Enter here to get my CV.">Get my
+          CV<i class="download"></i></a>
+      </div>
+      <ul class="tech-cards-container poppins">
+        <li class="tech-card langs" aria-label="Languages: JavaScript (ES5/ES6), Ruby, HTML, CSS.">
+          <h2>Languages</h2>
+          <ul class="tech">
+            <li>• JavaScript (ES6/ES7)</li>
+            <li>• HTML</li>
+            <li>• CSS</li>
+            <li>• C</li>
+            <li>• C++</li>
+          </ul>
+        </li>
+        <li class="tech-card frames" aria-label="Frameworks: Bootstrap, Ruby on rails, RSpec, Capibara, Selenium.">
+          <h2>Frameworks</h2>
+          <ul class="tech">
+            <li>• React JS</li>
+            <li>• React Native</li>
+            <li>• Tailwind CSS</li>
+           
+          </ul>
+        </li>
+        <li class="tech-card skills" aria-label="Skills: Codekit, Codepen, GitHub, GitLAb, Terminal.">
+          <h2>Skills</h2>
+          <ul class="tech">
+            <li>• AWS</li>
+            <li>• Git/GitHub</li>
+            <li>• OOP</li>
+            <li>• Responsive</li>
+          </ul>
+        </li>
+        <div class="about-deco"></div>
+      </ul>
+    </section>
+    <!----------------- Contact ---------------->
+    <section id="contact" tabindex="16">
+      <h1 class="playfair" aria-label="Lets get started.">Get Started</h1>
+      <p class="poppins">
+        Fill the below form to get in touch with me.
+      </p>
+      <form action="https://formspree.io/f/mqakpjgw" method="post">
+        <ul class="poppins">
+          <li class="input-container">
+            <label for="name" aria-label="Please enter your">
+              <abbr title="Required"> Your name<strong>*</strong> </abbr>
+            </label>
+            <input type="text" id="name" class="formInput" name="user_name" maxlength="30" required aria-label="name."
+              tabindex="17" />
+          </li>
+          <li class="input-container">
+            <label for="email" aria-label="Please enter your"><abbr title="Required">Your email<strong>*</strong></abbr>
+            </label>
+            <input name="user_email" id="email" class="formInput" type="email" required aria-label="email."
+              tabindex="18" />
+          </li>
+          
+        </ul>
+        <ul>
+            <li class="input-container">
+            <label for="phone" aria-label="Please enter your"><abbr title="Required">Your Phone<strong>*</strong></abbr>
+            </label>
+            <input name="user_phone" id="phone" class="formInput" type="number" required aria-label="phone."
+              tabindex="18" />
+          </li>
+        </ul>
+        <label for="msg" class="msgLbl poppins" aria-label="Please describe">
+          <abbr title="Required">Message<strong>*</strong></abbr>
+        </label>
+        <textarea name="msg" id="msg" class="formInput poppins" placeholder="Enter your message here..." maxlength="500"
+          required aria-label="your project in less than 500 characters." tabindex="19"></textarea>
+        <button type="submit" class="btnBlue" aria-label="Send message" tabindex="20">
+          Start collaboration
+        </button>
+        <small id="errorMsg"></small>
+      </form>
+    </section>
+    <footer>
+      <a href="https://drive.google.com/file/d/1__p8OEFDnU6Jo3pL7BOHxVdNCrxElczg/view?usp=sharing"
+        rel="noopener" class="open poppins" target="_blank" tabindex="21">Get my Resume</a>
+      <ul class="social-container">
+        <li>
+          <a class="social-link" rel="noopener" href="https://github.com/Harsh5784" target="_blank"
+            tabindex="23">
+            <i class="social-icon">
+              <img src="./images/icons/github-icon.svg" alt="GitHub" />
+            </i>
+          </a>
+        </li>
+        <li>
+          <a class="social-link" rel="noopener" href="https://www.linkedin.com/in/Harsh3093/" target="_blank"
+            tabindex="25">
+            <i class="social-icon">
+              <img src="./images/icons/linkedin.svg" alt="Linkedin" />
+            </i>
+          </a>
+        </li>
+      </ul>
+    </footer>
+  </main>
+</body>
+
+</html>

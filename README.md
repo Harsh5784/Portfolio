@@ -22,10 +22,10 @@ I am Harsh Bhasin, a passionate student of Computer Applications with a keen int
   -Git/Github
   -AWS
 
-- **Web Development:**
-  - Responsive design
-  - Front-end development
-  - User interface design
+**Web Development:**
+  -Responsive design
+  -Front-end development
+  -User interface design
 
 ## Experience
 

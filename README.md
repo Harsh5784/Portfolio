@@ -60,7 +60,9 @@ To view my portfolio locally, follow these steps:
    git clone https://github.com/Harsh5784/Portfolio.git
 
 ## Contact
+
 For any inquiries or collaboration opportunities, feel free to reach out:
 
--Email: harshbha30@gmail.com.
--[LinkedIn](https://www.linkedin.com/in/harsh3093/)
+- Email: [harshbha30@gmail.com](mailto:harshbha30@gmail.com)
+- LinkedIn: [Harsh Bhasin](https://www.linkedin.com/in/harsh3093/)
+

@@ -1,6 +1,6 @@
 # Harsh Bhasin's Portfolio
 
-Welcome to my portfolio! This repository showcases my skills and projects as a BCA student at Lovely Professional University. 
+Welcome to my portfolio! This repository showcases my skills and projects as a BCA student at Lovely Professional University.
 
 ## About Me
 
@@ -14,37 +14,42 @@ I am Harsh Bhasin, a passionate student of Computer Applications with a keen int
   - HTML
   - CSS
   - JavaScript
-  - React JS
+  - React.js
   - React Native
- 
-**Databeses & Skills**
-  -SQL
-  -Git/Github
-  -AWS
 
-**Web Development:**
-  -Responsive design
-  -Front-end development
-  -User interface design
+- **Databases & Tools:**
+  - SQL
+  - Git/GitHub
+  - AWS
+
+- **Web Development:**
+  - Responsive design
+  - Front-end development
+  - User interface design
 
 ## Experience
 
-I have gained practical experience working with **KJX Softtech** for 5 months, where I honed my skills in web development and collaborated on various projects. This experience helped me understand real-world applications of my technical skills.
+I have gained practical experience working with **KJX Softtech** for 5 months, where I honed my skills in web development and collaborated on various projects. This experience helped me understand the real-world applications of my technical skills.
 
-## Technologies Used
+## Current Project
 
-- HTML
-- CSS
-- JavaScript
-- React.js
-- SQL
-- AWS
+This portfolio project is built using:
+
+- **HTML**: For the structure and content of the web pages.
+- **CSS**: For styling and layout to ensure a responsive design.
+- **JavaScript**: To add interactivity and enhance user experience.
 
 ## Features
 
-- Responsive design
-- Interactive elements
-- Smooth navigation
+- Responsive design that adapts to various screen sizes.
+- Interactive elements that engage users.
+- Smooth navigation for a better user experience.
+
+## Projects
+
+Here are some of my notable projects:
+
+- **Weather App:** A personal project for measuring weather. You can check it out [here](https://apnaweatherbyharsh.netlify.app).
 
 ## Installation
 
@@ -53,3 +58,9 @@ To view my portfolio locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Harsh5784/Portfolio.git
+
+## Contact
+For any inquiries or collaboration opportunities, feel free to reach out:
+
+-Email: harshbha30@gmail.com
+-[LinkedIn](https://www.linkedin.com/in/harsh3093/)

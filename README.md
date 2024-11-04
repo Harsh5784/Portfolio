@@ -62,5 +62,5 @@ To view my portfolio locally, follow these steps:
 ## Contact
 For any inquiries or collaboration opportunities, feel free to reach out:
 
--Email: harshbha30@gmail.com
+-Email: harshbha30@gmail.com.
 -[LinkedIn](https://www.linkedin.com/in/harsh3093/)

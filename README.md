@@ -66,3 +66,5 @@ For any inquiries or collaboration opportunities, feel free to reach out:
 - Email: [harshbha30@gmail.com](mailto:harshbha30@gmail.com)
 - LinkedIn: [Harsh Bhasin](https://www.linkedin.com/in/harsh3093/)
 
+## Live Demo
+You can view my portfolio live at [This Site](https://harshbhasinportfolio.netlify.app)

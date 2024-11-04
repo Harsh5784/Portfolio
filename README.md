@@ -10,10 +10,17 @@ I am Harsh Bhasin, a passionate student of Computer Applications with a keen int
 
 ## Skills
 
-- **Languages & Technologies:**
+- **Languages, Frameworks & Libraries:**
   - HTML
   - CSS
   - JavaScript
+  - React JS
+  - React Native
+ 
+**Databeses & Skills**
+  -SQL
+  -Git/Github
+  -AWS
 
 - **Web Development:**
   - Responsive design

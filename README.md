@@ -14,9 +14,6 @@ I am Harsh Bhasin, a passionate student of Computer Applications with a keen int
   - HTML
   - CSS
   - JavaScript
-  - React.js
-  - SQL
-  - AWS
 
 - **Web Development:**
   - Responsive design
